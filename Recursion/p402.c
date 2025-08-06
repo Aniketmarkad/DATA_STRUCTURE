@@ -1,3 +1,4 @@
+//write a program which accept number from user and  find factorial of that number using recursion
 #include<stdio.h>
 
 int Factorial(int ino)
@@ -30,4 +31,5 @@ int main()
     printf(" factorial of number is :%d ",iRet);
 
     return 0;
+
 }
