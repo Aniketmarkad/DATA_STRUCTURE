@@ -1,4 +1,4 @@
- q#include <stdio.h>
+ qa#include <stdio.h>
 #include<stdlib.h>
 
 struct node
