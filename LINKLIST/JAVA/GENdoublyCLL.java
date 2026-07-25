@@ -6,7 +6,7 @@ class node<T>
 }
 
 class doublyCLLX<T>
-{
+{ 
     private node<T> first;
     private node<T> last ;
     private int icount;
