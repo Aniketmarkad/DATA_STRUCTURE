@@ -2,7 +2,7 @@ class node
 {
     public int data ;
     public node next;
-}
+} 
 
 class singlyLLLX
 {
