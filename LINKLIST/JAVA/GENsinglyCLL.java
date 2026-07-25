@@ -3,7 +3,7 @@ class node<T>
     public T data ;
     public node<T> next;
 }
-
+ 
 class singlyCLLX<T>
 {
     private node<T> first;
