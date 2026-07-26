@@ -6,7 +6,7 @@ template<class T>
 struct node
 {
     T data ;
-    struct node<T> * next;
+    struct node<T> * next; 
 };
 
 template<class T>
